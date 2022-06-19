@@ -1,27 +1,17 @@
 [
     {
-        "title": "asd",
-        "text": "asd",
-        "id": "986c"
+        "title": "Test Note",
+        "text": "Note",
+        "id": "396d"
     },
     {
-        "title": "sss",
-        "text": "sss",
-        "id": "62f0"
+        "title": "test Note 2",
+        "text": "note",
+        "id": "f988"
     },
     {
-        "title": "bb",
-        "text": "bbbb",
-        "id": "24d9"
-    },
-    {
-        "title": "ccc",
-        "text": "ccc",
-        "id": "d63f"
-    },
-    {
-        "title": "ddddd",
-        "text": "📀 ddd",
-        "id": "3e18"
+        "title": "Test",
+        "text": "Test",
+        "id": "bf4e"
     }
 ]
