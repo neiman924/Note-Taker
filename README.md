@@ -25,9 +25,9 @@ The application will be invoked by using the following command: npm I  => “npm
 ## usage
 AS A small business owner I WANT to be able to write and save notes SO THAT I can organize my thoughts and keep track of tasks I need to complete
     ## screenshot
-    ![alt text](./public/assets/img/Screenshot1.png)
-    ![alt text](./public/assets/img/Screenshot2.png)
-    ![alt text](./public/assets/img/Screenshot3.png)
+    ![alt text](./public/assets/img/S1.png)
+    ![alt text](./public/assets/img/S2.png)
+    ![alt text](./public/assets/img/S3.png)
  
 ## credits
 none

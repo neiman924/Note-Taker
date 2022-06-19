@@ -32,8 +32,8 @@ notes.post('/notes', (req, res) => {
   if (req.body) {
     const newText = {
       noteTitle, 
-      noteText
-      //id: uuidv4,
+      noteText,
+      id: uuidv4(),
     };
     console.log(newText);
     readAndAppend(newText, store);
